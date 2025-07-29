@@ -19,7 +19,6 @@ This project explores a pizza sales dataset using **MySQL** to extract key busin
 ## 📊 Tools Used
 - MySQL
 - Excel (for data preview)
-- Power BI (optional dashboard)
 
 ## 📷 Report
 PDF overview: [`Pizza Sales Insights.pdf`](./Pizza%20Sales%20Insights.pdf)

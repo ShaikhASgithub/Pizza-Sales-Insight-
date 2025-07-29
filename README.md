@@ -21,7 +21,7 @@ This project explores a pizza sales dataset using **MySQL** to extract key busin
 - Excel (for data preview)
 
 ## 📷 Report
-PDF overview: [`Pizza Sales Insights.pdf`](./Pizza%20Sales%20Insights.pdf)
+PDF overview: [`Pizza Sales Insights.pdf`](https://github.com/ShaikhASgithub/Pizza-Sales-Insight-/blob/main/Pizza%20Sales%20Insights.pdf)
 
 ## 📜 How to Run
 1. Import the CSVs into MySQL or use a DB like MySQL Workbench.
